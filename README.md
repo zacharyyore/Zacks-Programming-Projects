@@ -1,4 +1,5 @@
 # Zacks-Programming-Projects
-This is a repository of some code I have completed in my free time as well as assignments through school. :)
+
+This github repository showcases my diverse skillset as a programmer through a collection of personal and academic projects. This repository serves as an extensive portfolio of my coding experience and proficiency, reflecting the various languages, frameworks, and technologies I have worked with, such as Python, Java and C, among others. My personal projects demonstrate my passion for continuous learning and problem-solving, as I have taken on the challenge of developing applications and tools to address real-world issues or simply to explore new concepts. On the other hand, my academic work showcases my ability to effectively collaborate with peers, adhere to project guidelines, and deliver high-quality results within the given constraints. I believe that my GitHub repository effectively demonstrates my adaptability, commitment to excellence, and strong foundation in programming, all of which make me a valuable asset to any team. I look forward to the opportunity to discuss how my skills and experience can contribute to the success of your organization.
 
 
