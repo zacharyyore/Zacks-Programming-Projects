@@ -1,0 +1,19 @@
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:53:58 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:53:59 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:54:02 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:54:02 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:55:15 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:56:52 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:56:52 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:57:53 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:57:55 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:57:56 PM EST
+190120231601, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 16:58:58 PM EST
+190120231701, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 17:01:05 PM EST
+190120231701, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 17:06:00 PM EST
+190120231701, 3451, "Oakley Jawbreaker sunglasses", $236.00, 2, 0%, $472.00, 01/19/23, 17:06:00 PM EST
+190120231701, 14, "Stanley #2 Philips Screwdriver", $6.95, 3, 0%, $20.85, 01/19/23, 17:06:29 PM EST
+190120231701, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 01/19/23, 17:12:42 PM EST
+210120232101, 14, "Stanley #2 Philips Screwdriver", $6.95, 5, 10%, $31.27, 01/21/23, 21:18:15 PM EST
+210120232101, 2190, "Hefty 30 gal with handles - box 40", $19.00, 1, 0%, $19.00, 01/21/23, 21:19:08 PM EST
+210120232101, 97634, "Campagnolo 12 spd crankset - 53/39 175mm", $750.00, 4, 0%, $3000.00, 01/21/23, 21:19:08 PM EST
