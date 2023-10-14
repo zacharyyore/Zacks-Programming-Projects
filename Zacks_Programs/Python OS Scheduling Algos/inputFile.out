@@ -1,0 +1,68 @@
+4 processes
+Using Round-Robin
+Quantum   2
+
+Time   0 : P01 arrived
+Time   0 : P01 selected (burst 9)
+Time   2 : P01 selected (burst 7)
+Time   4 : P02 arrived
+Time   4 : P02 selected (burst 2)
+Time   6 : P02 finished
+Time   6 : P01 selected (burst 5)
+Time   8 : P03 arrived
+Time   8 : P04 arrived
+Time   8 : P03 selected (burst 4)
+Time  10 : P04 selected (burst 6)
+Time  12 : P01 selected (burst 3)
+Time  14 : P03 selected (burst 2)
+Time  16 : P03 finished
+Time  16 : P04 selected (burst 4)
+Time  18 : P01 selected (burst 1)
+Time  19 : P01 finished
+Time  19 : P04 selected (burst 2)
+Time  21 : P04 finished
+Time  21 : Idle
+Time  22 : Idle
+Time  23 : Idle
+Time  24 : Idle
+Time  25 : Idle
+Time  26 : Idle
+Time  27 : Idle
+Time  28 : Idle
+Time  29 : Idle
+Time  30 : Idle
+Time  31 : Idle
+Time  32 : Idle
+Time  33 : Idle
+Time  34 : Idle
+Time  35 : Idle
+Time  36 : Idle
+Time  37 : Idle
+Time  38 : Idle
+Time  39 : Idle
+Time  40 : Idle
+Time  41 : Idle
+Time  42 : Idle
+Time  43 : Idle
+Time  44 : Idle
+Time  45 : Idle
+Time  46 : Idle
+Time  47 : Idle
+Time  48 : Idle
+Time  49 : Idle
+Time  50 : Idle
+Time  51 : Idle
+Time  52 : Idle
+Time  53 : Idle
+Time  54 : Idle
+Time  55 : Idle
+Time  56 : Idle
+Time  57 : Idle
+Time  58 : Idle
+Time  59 : Idle
+Finished at time  60
+
+P01 wait  10 turnaround  19 response   0
+P02 wait   0 turnaround   2 response   0
+P03 wait   5 turnaround   9 response   1
+P04 wait   7 turnaround  13 response   2
