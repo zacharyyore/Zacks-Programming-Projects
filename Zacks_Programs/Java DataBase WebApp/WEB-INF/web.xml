@@ -1,0 +1,71 @@
+<web-app>
+
+   <!-- General description of your Web application -->
+   <display-name>
+      CNT 4714 Spring 2023 Servlet/JSP Home Page
+   </display-name>
+
+   <description>
+      This is the Web application in which we 
+      demonstrate our JSP and Servlet examples.
+   </description>
+
+   <!-- Servlet definitions and mappings  -->
+      <servlet>
+		<servlet-name>LoginServlet</servlet-name>
+		<servlet-class>LoginServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+		<servlet-name>LoginServlet</servlet-name>
+		<url-pattern>/LoginServlet</url-pattern>
+	</servlet-mapping>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <servlet>
+		<servlet-name>RootUserServlet</servlet-name>
+		<servlet-class>RootUserServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+		<servlet-name>RootUserServlet</servlet-name>
+		<url-pattern>/RootUserServlet</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>ClientUserServlet</servlet-name>
+		<servlet-class>ClientUserServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+		<servlet-name>ClientUserServlet</servlet-name>
+		<url-pattern>/ClientUserServlet</url-pattern>
+	</servlet-mapping>
+
+
+<servlet>
+		<servlet-name>DEUserServlet</servlet-name>
+		<servlet-class>DEUserServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+		<servlet-name>DEUserServlet</servlet-name>
+		<url-pattern>/DEUserServlet</url-pattern>
+	</servlet-mapping>
+
+
+
+
+</web-app>
+
