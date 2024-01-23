@@ -1,0 +1,77 @@
+<web-app>
+
+   <!-- General description of your Web application -->
+   <display-name>
+      Zacks Weather-APP
+   </display-name>
+
+   <description>
+      This is a Web application in which a user can
+      look up the weather for various citiies.
+   </description>
+
+   <!-- Servlet definitions and mappings  -->
+      <servlet>
+		<servlet-name>LoginServlet</servlet-name>
+		<servlet-class>LoginServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+    		<servlet-name>LoginServlet</servlet-name>
+    		<url-pattern>/LoginServlet</url-pattern>
+	</servlet-mapping>
+
+	 <servlet>
+		<servlet-name>RegisterServlet</servlet-name>
+		<servlet-class>RegisterServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+    		<servlet-name>RegisterServlet</servlet-name>
+    		<url-pattern>/RegisterServlet</url-pattern>
+	</servlet-mapping>
+
+ 
+ <servlet>
+		<servlet-name>WeatherServlet</servlet-name>
+		<servlet-class>WeatherServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+    		<servlet-name>WeatherServlet</servlet-name>
+    		<url-pattern>/WeatherServlet</url-pattern>
+	</servlet-mapping>
+
+ 
+ <servlet>
+		<servlet-name>DeleteCityServlet</servlet-name>
+		<servlet-class>DeleteCityServlet</servlet-class>
+	</servlet>
+	
+	<!-- servlet mappings -->
+	<servlet-mapping>
+    		<servlet-name>DeleteCityServlet</servlet-name>
+    		<url-pattern>/DeleteCityServlet</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+        <servlet-name>WeatherDataServlet</servlet-name>
+        <servlet-class>com.myweatherapp.WeatherDataServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>WeatherDataServlet</servlet-name>
+        <url-pattern>/weatherData</url-pattern>
+    </servlet-mapping>
+ 
+ 
+ 
+ 
+
+
+
+</web-app>
+
